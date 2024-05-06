@@ -98,7 +98,7 @@ The full process is described graphically in the [workflow diagram](./docs/workf
    ```shell
    python3 -m venv venv
    source venv/bin/activate
-   pip install git+https://github.com/instructlab/instructlab.git@stable
+   python3 -m pip install git+https://github.com/instructlab/instructlab.git@stable
    ```
 
    > **NOTE**: ⏳ `pip install` may take some time, depending on your internet connection.
